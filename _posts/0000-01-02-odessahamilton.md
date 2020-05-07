@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-add second slide with layout, add title
+__I am ~~kinda~~ very happy to be learning *markdown* and [*github*](https://github.com/)!__
 Use the left arrow to go back!
